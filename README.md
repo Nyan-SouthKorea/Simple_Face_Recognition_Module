@@ -9,7 +9,9 @@
 - **비교 척도는 유클리드 거리(Euclidean distance), threshold=0.6 기본**
 
 ---
-
+  
+![alt text](readme_img/img1.png)  
+  
 ## 0) 기본 폴더 구조
 
 ```
